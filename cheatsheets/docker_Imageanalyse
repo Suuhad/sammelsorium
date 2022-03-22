@@ -1,0 +1,3 @@
+APTHunter erstellt einen Report mit mehreren Sheets. Automatisiert.
+
+docker run -v C:\Windows\System32\winevt:/data -v outputordner:/output tabledevil/apthunter
